@@ -31,7 +31,7 @@
                   <span>Password :</span>
                 </label>
                 <input type="password" id="pwd" name="password" class="w-100 p-1 mt-2  text-muted" placeholder="Enter your password">
-                <button type="submit" class="btn btn-info w-100 mt-4"><a href="Dashboard.php" class="text-white text-decoration-none">SIGN IN</a></button>
+                <button type="submit" class="btn btn-info w-100 mt-4"><a href="home.php" class="text-white text-decoration-none">SIGN IN</a></button>
                 <p class="text-center"><span class="text-muted">Forgot your password?</span> <a href="#">Reset Password</a></p>
               
         </form>
