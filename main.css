@@ -7,9 +7,9 @@ main{
     left: 270px;
 }
 
-.Atable{
-    position: absolute;
-}
+/* .Atable{
+    position: fixed;
+} */
 
 @media screen and (max-width:920px) {
     main{
