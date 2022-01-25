@@ -1,0 +1,19 @@
+
+main{
+    position: absolute;
+    z-index: 20;
+    width: calc(100% - 270px);
+    top: 62px;
+    left: 270px;
+}
+
+.Atable{
+    position: absolute;
+}
+
+@media screen and (max-width:920px) {
+    main{
+        left: 0;
+        width: 100%;
+    }
+}
