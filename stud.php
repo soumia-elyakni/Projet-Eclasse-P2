@@ -23,20 +23,18 @@ include 'studentstable.php'
     ?>
     <main>
                 <!--avanttable-->
-
-        <section class="Atable row-col-12 d-flex p-2 mx-3">
+      <div class="nav_bar d-flex align-items-center px-3 bg-white">
             <h2 class="tabtitle col-9 align-self-center mt-1">Students list</h2> 
-            <div class="col-3 align-self-center ">
+            <div class="col-3 align-self-center d-flex">
               <button style="border: transparent; background: transparent; align-self: center;"> 
-                 <img src="/images/svg/buttonpay.svg">
+                 <img src="images/svg/buttonpay.svg">
               </button>
               <button class="addns text-white" style="border : none; background:#00C1FE; border-radius: 4px;">
              ADD NEW STUDENT
              </button>
-                </div>
-         </section>
+             </div>
+      </div>
 
-         
                    <!--table-->
           
       <div class="m-3 mt-1">

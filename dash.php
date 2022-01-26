@@ -30,43 +30,43 @@
             </li>
         </ul>
         <ul class="linklist d-flex flex-column justify-content-center align-items-center  p-1">
-            <li class="link mt-3 ps-3 rounded-3 w-5">
+            <li class="link mt-3 ps-3 rounded-3 ">
                 <a href="home.php">
                     <img class="mx-auto" src="images/svg/home.svg" alt="">
                     <small>Home</small>
                 </a>
             </li>
-            <li class="link mt-3 ps-3 rounded-3 w-5">
+            <li class="link mt-3 ps-3 rounded-3 ">
                 <a href="#">
                     <img class="mx-auto" src="images/svg/cours.svg" alt="">
                     <small>Cours</small>
                 </a>
             </li>
-            <li class="link mt-3 ps-3 rounded-3 w-5 ">
+            <li class="link mt-3 ps-3 rounded-3  ">
                 <a href="stud.php">
                     <img class="mx-auto" src="images/svg/students.svg" alt="">
                     <small>Students</small>
                 </a>
             </li>
-            <li class="link mt-3 ps-3 rounded-3 w-5 ">
+            <li class="link mt-3 ps-3 rounded-3  ">
                 <a href="pay.php">
                     <img class="mx-auto" src="images/svg/payments.svg" alt="">
                     <small>Payements</small>
                 </a>
             </li>
-            <li class="link mt-3 ps-3 rounded-3 w-5">
+            <li class="link mt-3 ps-3 rounded-3 ">
                 <a href="#">
                     <img class="mx-auto" src="images/svg/report.svg" alt="">
                     <small>Report</small>
                 </a>
             </li>
-            <li class="link mt-3 ps-3 rounded-3 w-5">
+            <li class="link mt-3 ps-3 rounded-3 ">
                 <a href="#">
                     <img class="ms-1" src="images/svg/setting.svg" alt="">
                     <small class="ms-1">Settings</small>
                 </a>
             </li>
-            <li class="link mt-5 ps-3 rounded-3 w-5">
+            <li class="link mt-5 ps-3 rounded-3 ">
                 <a href="index.php">
                     <small>Logout</small>
                     <img class="ms-1" src="images/svg/logout.svg" alt="">
