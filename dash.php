@@ -20,7 +20,7 @@
                 <h1 class="border-start px-1 mt-4 ms-3 border-info border-5 text-dark fw-bolder" style="font-size: 20px">E-classe</h1>
                 </a>
                 <span class="d-none" onclick="openn()">
-                    <i class="fas fa-times"></i>
+                    <i class="fas fa-times"></i> 
                 </span>
             </li>
             <li class="text-center">
