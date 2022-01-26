@@ -29,8 +29,8 @@
                 <p class="text-info ">Admin</p>
             </li>
         </ul>
-        <ul class="linklist m-5">
-            <li class="link mt-3 ps-3 rounded-3">
+        <ul class="linklist d-flex flex-column justify-content-center align-items-center">
+            <li class="link mt-3 ps-3 rounded-3 ">
                 <a href="home.php">
                     <img class="mx-auto" src="images/svg/home.svg" alt="">
                     <small>Home</small>

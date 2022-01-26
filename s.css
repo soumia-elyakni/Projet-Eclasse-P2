@@ -14,9 +14,8 @@
 .linklist li{
     border-radius: 4px !important;
 }
-
-:hover .link{
-    background-color: #00C1FE !important;
+ .linklist .link a:hover{
+     background-color: aqua !important;
     
 } 
 
