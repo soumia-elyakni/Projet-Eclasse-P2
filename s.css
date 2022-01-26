@@ -11,11 +11,21 @@
     margin-left-right :auto !important;
 } */
 
-.linklist li{
-    border-radius: 4px !important;
+.linklist{
+    width: 60%;
+    margin: auto;
 }
- .linklist .link a:hover{
-     background-color: aqua !important;
+
+.link{
+    border-radius: 4px !important;
+    width: 100%;
+}
+.link a{
+   justify-content: start;
+}
+  .linklist .link:hover {
+     background-color: #00C1FE !important;
+     border-radius: 4px;
     
 } 
 
