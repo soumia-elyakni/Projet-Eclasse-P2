@@ -23,7 +23,7 @@ include 'studentstable.php'
     ?>
     <main>
                 <!--avanttable-->
-      <div class="nav_bar d-flex align-items-center px-3 bg-white">
+      <section class="nav_bar d-flex align-items-center px-3">
             <h2 class="tabtitle col-9 align-self-center mt-1">Students list</h2> 
             <div class="col-3 align-self-center d-flex">
               <button style="border: transparent; background: transparent; align-self: center;"> 
@@ -33,7 +33,7 @@ include 'studentstable.php'
              ADD NEW STUDENT
              </button>
              </div>
-      </div>
+      </section>
 
                    <!--table-->
           

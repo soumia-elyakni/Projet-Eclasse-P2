@@ -22,20 +22,21 @@ include 'payementable.php'
     ?>
 
     <main>
-                     <!--avanttable-->
+          <!--avanttable-->
 
-                     <section class="row-col-12 d-flex ps-2 ms-3">
+      <section class="nav_bar d-flex align-items-center px-3">
 
-                        <h2 class="tabtitle col-11 align-self-center mt-1">Payment Details</h2> 
-                        <div class="col-1 flex-end ">
-                            <button style="border: transparent; background: transparent; align-self: center;">
-                               <img src="/images/svg/buttonpay.svg">
-                            </button>
-                        </div>
-                     </section>
-                     <!--table-->
+        <h2 class="tabtitle col-11 align-self-center mt-1">Payment Details</h2> 
+        <div class="col-1 flex-end ">
+            <button style="border: transparent; background: transparent; align-self: center;">
+              <img src="images/svg/buttonpay.svg">
+            </button>
+        </div>
+      </section>
+
+          <!--table-->
           
-      <section class="m-3">
+      <section class="mt-5 mx-2">
         <table class="table table-responsive table-striped table-sm">
           <thead class="text-muted" style="background: transparent;">
             <tr>
