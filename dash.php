@@ -17,9 +17,9 @@
         <ul>
             <li>
                 <a href="#">
-                <h1 class="border-start px-1 mt-4 ms-3 border-info border-5 text-dark fw-bolder" style="font-size: 20px">E-classe</h1>
+                <h1 class="border-start px-1 mt-4 ms-3 me-5 border-info border-5 text-dark fw-bolder" style="font-size: 20px">E-classe</h1>
                 </a>
-                <span class="d-none" onclick="openn()">
+                <span class="d-none ms-5" onclick="openn()">
                     <i class="fas fa-times"></i> 
                 </span>
             </li>
