@@ -23,13 +23,14 @@ include 'studentstable.php'
     ?>
     <main>
                 <!--avanttable-->
+
       <section class="nav_bar d-flex align-items-center px-3">
             <h2 class="tabtitle col-9 align-self-center mt-1">Students list</h2> 
             <div class="col-3 align-self-center d-flex">
               <button style="border: transparent; background: transparent; align-self: center;"> 
                  <img src="images/svg/buttonpay.svg">
               </button>
-              <button class="addns text-white" style="border : none; background:#00C1FE; border-radius: 4px;">
+              <button class="addns text-white" style="border : none; background: #00C1FE; border-radius: 4px;">
              ADD NEW STUDENT
              </button>
              </div>
@@ -37,7 +38,7 @@ include 'studentstable.php'
 
                    <!--table-->
           
-      <div class="m-3 mt-1">
+      <div class="m-3 mt-5">
         <table class="table table-responsive>
           <thead class="text-muted" style="background: transparent;">
             <tr>
